@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+* {
+  background: #1f2235;
+  color: white;
+}
+
+nav li {
+  display: inline;
+  justify-items: right;
+}
+
+.social-network li {
+  display: inline;
+  border-radius: 150px;
+}
+button {
+  display: inline;
+  border-radius: 150px;
+  border: solid red;
+  margin: auto;
+}
+
+#btn {
+  background: red;
+}
+
+.boxes {
+  display: inline-block;
+}
+.services {
+  display: inline-block;
+}
+.services h2 {
+  color: red;
+}
+.services h3 {
+  color: red;
+}
